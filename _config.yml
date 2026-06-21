@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Peking University"
   location         : "Beijing, China"
-  employer         : "Peking University"
-  uri              : "https://github.com/yqpqry"
+  employer         :
+  uri              :
   email            : "qmyao25@stu.pku.edu.cn" 
 
   # Academic websites
