@@ -21,4 +21,3 @@ Contact
 ======
 
 * Email: [qmyao25@stu.pku.edu.cn](mailto:qmyao25@stu.pku.edu.cn), [qingmaoyao@163.com](mailto:qingmaoyao@163.com)
-* Google Scholar: [Qingmao Yao](https://scholar.google.com/citations?user=KKVy_DEAAAAJ&hl=zh-CN&oi=ao)
