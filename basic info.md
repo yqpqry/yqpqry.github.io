@@ -14,5 +14,5 @@ https://arxiv.org/abs/2506.08417
 
 Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support
 Qingmao Yao, Guangzheng Hu, Yusen Huo, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng
-ICLR 2026 Workshop AIMS
+NeurIPS 2026
 https://openreview.net/forum?id=aTcHmMtkPR
