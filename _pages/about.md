@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the Center on Frontiers of Computing Studies (CFCS), School of Computer Science, Peking University, advised by Prof. Xiaotie Deng.
+I am a second-year Ph.D. student at the Center on Frontiers of Computing Studies (CFCS), School of Computer Science, Peking University, advised by Prof. Xiaotie Deng.
 I received my bachelor's degree from the School of Mathematical Sciences at Beihang University, where I was advised by Prof. Xiao Zhang.
 
 Research Interests
